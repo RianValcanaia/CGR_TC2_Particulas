@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200px" alt="Gif animado"/>
 
-# <code><strong> Modelagem 3D com quádricas em OpenGL</strong></code>
+# <code><strong> Simulação de Partículas: Chafariz 3D</strong></code>
 
 <em>Implementação de um sistema de partículas para simulação física de fluidos na disciplina de Computação Gráfica.</em>
 
